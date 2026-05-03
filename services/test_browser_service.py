@@ -138,6 +138,7 @@ def test_open_page():
             try:
                 download_button.hover()
                 page.wait_for_timeout(300)
+                # test comment
                 download_button.click(force=True, timeout=5000)
                 print("   ✓ Strategy 1: Hover + Click succeeded")
                 download_triggered = True
