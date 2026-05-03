@@ -1,0 +1,15 @@
+__pycache__
+.pytest_cache
+\app\services\config.pytest_cache
+\app\services\.pytest_cache
+\app\services\__pycache__
+\app\libraries\__pycache__
+.env
+\app\services\config.py
+\config
+config.py
+\venv
+venv
+.pytest_cache
+__pycache__
+
